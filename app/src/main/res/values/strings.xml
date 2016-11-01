@@ -28,4 +28,25 @@
     <string name="siam_kempinski_address">991/9 Rama I Rd., Pathumwan, Bangkok</string>
     <string name="intercontinental">The Intercontinental</string>
     <string name="intercontinental_address">973 Phloen Chit Rd., Lumphini, Pathum Wan, Bangkok</string>
+    <string name="gaggan">Gaggan</string>
+    <string name="gaggan_address">68/1 Lang Suan Rd., Bangkok</string>
+    <string name="appia">Appia</string>
+    <string name="appia_address">20/4 Sukhumvit Soi 31, Bangkok</string>
+    <string name="soulfood">Soulfood Mahanakorn</string>
+    <string name="soulfood_address">56/10 Sukhumvit Soi 55, Bangkok</string>
+    <string name="nahm">Nahm</string>
+    <string name="nahm_address">27 Sathorn Rd., Bangkok</string>
+    <string name="bolan">Bo.lan</string>
+    <string name="bolan_address">24 Sukhumvit Soi 53, Bangkok</string>
+    <string name="chefman">Chef Man</string>
+    <string name="chefman_address">24 Sukhumvit Soi 53, Bangkok</string>
+    <string name="littlebeast">Little Beast</string>
+    <string name="littlebeast_address"> 44/9\-10 Thonglor Soi 13, Bangkok</string>
+    <string name="danielthaiger">Daniel Thaiger</string>
+    <string name="danielthaiger_address"> Sukhumvit 30 Alley, Khlong Tan, Khlong Toei, Bangkok</string>
+    <string name="eatme">Eat Me</string>
+    <string name="eatme_address">1/6 Soi Phiphat 2, Convent Rd., Bangkok</string>
+    <string name="lordjims">Lord Jims</string>
+    <string name="lordjims_address">48 Oriental Avenue, Bangkok</string>
+
 </resources>
