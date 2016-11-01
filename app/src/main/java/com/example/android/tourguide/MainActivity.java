@@ -2,6 +2,7 @@ package com.example.android.tourguide;
 
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
+import android.support.design.widget.TabLayout;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
@@ -21,5 +22,8 @@ public class MainActivity extends AppCompatActivity {
 
         // Set the adapter onto the view pager
         viewPager.setAdapter(adapter);
+
+        TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
+        tabLayout.setupWithViewPager(viewPager);
     }
 }

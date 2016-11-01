@@ -8,4 +8,24 @@
     <string name="hotels_fragment">Hotels</string>
     <string name="restaurants_fragment">Restaurants</string>
     <string name="sights_fragment">Sights</string>
+    <string name="mandarin_oriental">The Mandarin Oriental</string>
+    <string name="mandarin_oriental_address">48 Oriental Ave., Bang Rak, Bangkok</string>
+    <string name="st_regis">The St. Regis</string>
+    <string name="st_regis_address">Rajadamri Rd., Lumpini Sub-District, Bangkok </string>
+    <string name="okura_prestige">The Okura Prestige</string>
+    <string name="okura_prestige_address">Wireless Rd., Lumpini, Bangkok</string>
+    <string name="the_siam">The Siam</string>
+    <string name="the_siam_address">3/2 Khao Rd., Vachirapayabal, Dusit, Bangkok</string>
+    <string name="banyan_tree">The Siam</string>
+    <string name="banyan_tree_address">3/2 Khao Rd., Vachirapayabal, Dusit, Bangkok</string>
+    <string name="the_peninsula">The Peninsula</string>
+    <string name="the_peninsula_address">333 Charoennakorn Rd., Klongsan, Bangkok</string>
+    <string name="the_sukhothai">The Sukhothai</string>
+    <string name="the_sukhothai_address">13/3 South Sathorn Rd., Bangkok</string>
+    <string name="anantara_riverside">Anantara Riverside Resort</string>
+    <string name="anantara_riverside_address">257/1\-3 Charoennakorn Rd., Thonburi, Bangkok</string>
+    <string name="siam_kempinski">Siam Kempinski</string>
+    <string name="siam_kempinski_address">991/9 Rama I Rd., Pathumwan, Bangkok</string>
+    <string name="intercontinental">The Intercontinental</string>
+    <string name="intercontinental_address">973 Phloen Chit Rd., Lumphini, Pathum Wan, Bangkok</string>
 </resources>
