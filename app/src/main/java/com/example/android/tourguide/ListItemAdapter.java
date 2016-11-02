@@ -50,9 +50,11 @@ public class ListItemAdapter extends ArrayAdapter<ListItem> {
         addressTextView.setText(currentListItem.getAddress());
 
         View textContainer = (View) listItemView.findViewById(R.id.text_container);
+        View paddingView = (View) listItemView.findViewById(R.id.view_padding);
         int color = ContextCompat.getColor(getContext(), mColorResourceID);
         textContainer.setBackgroundColor(color);
         imageView.setBackgroundColor(color);
+        paddingView.setBackgroundColor(color);
 
         return listItemView;
     }

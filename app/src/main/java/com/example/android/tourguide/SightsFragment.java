@@ -7,12 +7,36 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ListView;
+
+import java.util.ArrayList;
 
 public class SightsFragment extends Fragment {
 
+    public SightsFragment() {
+        // Required empty public constructor
+    }
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_sights, container, false);
+        View rootView = inflater.inflate(R.layout.item_list, container, false);
+
+        final ArrayList<ListItem> items = new ArrayList<ListItem>();
+        items.add(new ListItem(R.string.wat_arun, R.string.wat_arun_address));
+        items.add(new ListItem(R.string.lumphini_park, R.string.lumphini_park_address));
+        items.add(new ListItem(R.string.grand_palace, R.string.grand_palace_address));
+        items.add(new ListItem(R.string.jim_thompson, R.string.jim_thompson_address));
+        items.add(new ListItem(R.string.khaosan, R.string.khaosan_address));
+        items.add(new ListItem(R.string.wat_phra_kaew, R.string.wat_phra_kaew_address));
+        items.add(new ListItem(R.string.yaowarat, R.string.yaowarat_address));
+        items.add(new ListItem(R.string.wat_pho, R.string.wat_pho_address));
+        items.add(new ListItem(R.string.golden_buddha, R.string.golden_buddha_address));
+        items.add(new ListItem(R.string.chatuchak, R.string.chatuchak_address));
+
+        ListItemAdapter adapter = new ListItemAdapter(getActivity(), items, R.color.category_sights);
+        ListView listView = (ListView) rootView.findViewById(R.id.list);
+        listView.setAdapter(adapter);
+
+        return rootView;
     }
 }

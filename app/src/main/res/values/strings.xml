@@ -9,25 +9,25 @@
     <string name="restaurants_fragment">Eats</string>
     <string name="sights_fragment">Sights</string>
     <string name="mandarin_oriental">The Mandarin Oriental</string>
-    <string name="mandarin_oriental_address">48 Oriental Ave., Bang Rak, Bangkok</string>
+    <string name="mandarin_oriental_address">48 Oriental Ave., Bangkok</string>
     <string name="st_regis">The St. Regis</string>
-    <string name="st_regis_address">Rajadamri Rd., Lumpini Sub-District, Bangkok </string>
+    <string name="st_regis_address">Rajadamri Rd., Bangkok </string>
     <string name="okura_prestige">The Okura Prestige</string>
-    <string name="okura_prestige_address">Wireless Rd., Lumpini, Bangkok</string>
+    <string name="okura_prestige_address">Wireless Rd., Bangkok</string>
     <string name="the_siam">The Siam</string>
-    <string name="the_siam_address">3/2 Khao Rd., Vachirapayabal, Dusit, Bangkok</string>
-    <string name="banyan_tree">The Siam</string>
-    <string name="banyan_tree_address">3/2 Khao Rd., Vachirapayabal, Dusit, Bangkok</string>
+    <string name="the_siam_address">3/2 Khao Rd., Bangkok</string>
+    <string name="banyan_tree">Banyan Tree Hotel</string>
+    <string name="banyan_tree_address">21 S. Sathorn Rd, Bangkok</string>
     <string name="the_peninsula">The Peninsula</string>
-    <string name="the_peninsula_address">333 Charoennakorn Rd., Klongsan, Bangkok</string>
+    <string name="the_peninsula_address">333 Charoennakorn Rd., Bangkok</string>
     <string name="the_sukhothai">The Sukhothai</string>
-    <string name="the_sukhothai_address">13/3 South Sathorn Rd., Bangkok</string>
+    <string name="the_sukhothai_address">13/3 S. Sathorn Rd., Bangkok</string>
     <string name="anantara_riverside">Anantara Riverside Resort</string>
-    <string name="anantara_riverside_address">257/1\-3 Charoennakorn Rd., Thonburi, Bangkok</string>
+    <string name="anantara_riverside_address">257/1\-3 Charoennakorn Rd., Bangkok</string>
     <string name="siam_kempinski">Siam Kempinski</string>
-    <string name="siam_kempinski_address">991/9 Rama I Rd., Pathumwan, Bangkok</string>
+    <string name="siam_kempinski_address">991/9 Rama I Rd., Bangkok</string>
     <string name="intercontinental">The Intercontinental</string>
-    <string name="intercontinental_address">973 Phloen Chit Rd., Lumphini, Pathum Wan, Bangkok</string>
+    <string name="intercontinental_address">973 Phloen Chit Rd., Bangkok</string>
     <string name="gaggan">Gaggan</string>
     <string name="gaggan_address">68/1 Lang Suan Rd., Bangkok</string>
     <string name="appia">Appia</string>
@@ -40,8 +40,8 @@
     <string name="bolan_address">24 Sukhumvit Soi 53, Bangkok</string>
     <string name="chefman">Chef Man</string>
     <string name="chefman_address">24 Sukhumvit Soi 53, Bangkok</string>
-    <string name="littlebeast">Little Beast</string>
-    <string name="littlebeast_address"> 44/9\-10 Thonglor Soi 13, Bangkok</string>
+    <string name="somboon">Somboon Seafood</string>
+    <string name="somboon_address">169/7\-12 Surawong Rd, Bangkok</string>
     <string name="danielthaiger">Daniel Thaiger</string>
     <string name="danielthaiger_address"> Sukhumvit 30 Alley, Khlong Tan, Khlong Toei, Bangkok</string>
     <string name="eatme">Eat Me</string>
@@ -68,11 +68,25 @@
     <string name="beam_address">1/F, 72 Courtyard, Sukhumvit Soi 55, Bangkok</string>
     <string name="havana_social">Havana Social</string>
     <string name="havana_social_address">Sukhumvit Soi 11, Bangkok</string>
-
-
-
-
-
-
-
+    <string name="grand_palace">Grand Palace</string>
+    <string name="grand_palace_address">Na Phra Lan Rd, Phra Nakhon, Bangkok</string>
+    <string name="wat_arun">Wat Arun</string>
+    <string name="wat_arun_address">158 Wang Doem Rd, Wat Arun, Bangkok</string>
+    <string name="khaosan">Khaosan Road</string>
+    <string name="khaosan_address">Khaosan Rd., Bangkok</string>
+    <string name="wat_phra_kaew">Wat Phra Kaew</string>
+    <string name="wat_phra_kaew_address">Na Phra Lan Rd., Phra Borom Maha Rajawang, Bangkok</string>
+    <string name="jim_thompson">Jim Thompson House</string>
+    <string name="jim_thompson_address">Rama I Rd, Wang Mai, Pathum Wan, Bangkok</string>
+    <string name="golden_buddha">Temple of the Golden Buddha</string>
+    <string name="golden_buddha_address">661 Chaoren Krung Road | Talad Noi, Samphanthawong, Bangkok</string>
+    <string name="lumphini_park">Lumphini Park</string>
+    <string name="lumphini_park_address">139/4 Thanon Witthayu, Lumphini, Pathum Wan, Bangkok </string>
+    <string name="chatuchak">Chatuchak Weekend Market</string>
+    <string name="chatuchak_address">587/10 Kamphaeng Phet 2 Rd, Chatuchak, Bangkok</string>
+    <string name="wat_pho">Wat Pho</string>
+    <string name="wat_pho_address">2 Sanamchai Road, Pranakorn, Bangkok</string>
+    <string name="yaowarat">Yaowarat District</string>
+    <string name="yaowarat_address">Yaowarat Rd., Samphanthawong, Bangkok</string>
+    <string name="bangkok_guide">Bangkok Guide</string>
 </resources>

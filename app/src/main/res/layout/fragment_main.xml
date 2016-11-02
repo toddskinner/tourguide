@@ -5,9 +5,20 @@
     tools:context="com.example.android.tourguide.MainFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/mainpage_fragment" />
+        android:src="@drawable/bangkok_main"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bangkok_guide"
+        android:textStyle="bold"
+        android:textSize="48sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="24dp"
+        android:textColor="@android:color/black"/>
 
 </FrameLayout>

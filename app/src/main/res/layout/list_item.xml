@@ -6,9 +6,16 @@
     android:layout_height="wrap_content"
     android:minHeight="@dimen/list_item_height">
 
+    <View
+        android:layout_width="10dp"
+        android:layout_height="@dimen/list_item_height"
+        android:id="@+id/view_padding"/>
+
     <ImageView
         android:layout_width="@dimen/list_item_height"
         android:layout_height="@dimen/list_item_height"
+        android:scaleType="centerCrop"
+        android:padding="10dp"
         android:id="@+id/image"/>
 
     <LinearLayout
