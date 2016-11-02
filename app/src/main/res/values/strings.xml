@@ -4,9 +4,9 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="bars_fragment">Bars</string>
-    <string name="mainpage_fragment">Main Page</string>
+    <string name="mainpage_fragment">Main</string>
     <string name="hotels_fragment">Hotels</string>
-    <string name="restaurants_fragment">Restaurants</string>
+    <string name="restaurants_fragment">Eats</string>
     <string name="sights_fragment">Sights</string>
     <string name="mandarin_oriental">The Mandarin Oriental</string>
     <string name="mandarin_oriental_address">48 Oriental Ave., Bang Rak, Bangkok</string>
@@ -48,5 +48,31 @@
     <string name="eatme_address">1/6 Soi Phiphat 2, Convent Rd., Bangkok</string>
     <string name="lordjims">Lord Jims</string>
     <string name="lordjims_address">48 Oriental Avenue, Bangkok</string>
+    <string name="ironfairies">Iron Fairies</string>
+    <string name="ironfairies_address">404 Sukhumvit Soi 55, Bangkok</string>
+    <string name="maggiechoos">Maggie Choo\'s</string>
+    <string name="maggiecchoos_address">320 Silom Rd, Silom, Bangkok</string>
+    <string name="above_eleven">Above Eleven</string>
+    <string name="above_eleven_address">38/8 Soi Sukhumvit 11, Bangkok</string>
+    <string name="singsing">Sing Sing Theater</string>
+    <string name="singsing_address">Sukhumvit Soi 45, Bangkok</string>
+    <string name="smalls">Smalls</string>
+    <string name="smalls_address">186/3 Suanphlu Soi 1, Bangkok</string>
+    <string name="vesper">Vesper</string>
+    <string name="vesper_address">10/15 Soi Convent Road, Silom, Bangkok</string>
+    <string name="hyde_seek">Hyde &amp; Seek</string>
+    <string name="hyde_seek_address">65/1 Athenee Residence, Soi Ruamrudee, Lumpini, Bangkok</string>
+    <string name="rabbit_hole">Rabbit Hole</string>
+    <string name="rabbit_hole_address">125 Sukhumvit Soi 55, Bangkok</string>
+    <string name="beam">Beam</string>
+    <string name="beam_address">1/F, 72 Courtyard, Sukhumvit Soi 55, Bangkok</string>
+    <string name="havana_social">Havana Social</string>
+    <string name="havana_social_address">Sukhumvit Soi 11, Bangkok</string>
+
+
+
+
+
+
 
 </resources>
