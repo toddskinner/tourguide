@@ -66,10 +66,10 @@ public class ListItemAdapter extends ArrayAdapter<ListItem> {
             @Override
             public void onClick(View view){
                 Intent detailIntent = new Intent(mCon, DetailActivity.class);
-                detailIntent.putExtra("name", getItem(position).getName());
-                detailIntent.putExtra("address", getItem(position).getAddress());
-                detailIntent.putExtra("image", getItem(position).getImageResourceID());
-                detailIntent.putExtra("description", getItem(position).getDescription());
+                detailIntent.putExtra(mCon.getString(R.string.putExtraName), getItem(position).getName());
+                detailIntent.putExtra(mCon.getString(R.string.putExtraAddress), getItem(position).getAddress());
+                detailIntent.putExtra(mCon.getString(R.string.putExtraImage), getItem(position).getImageResourceID());
+                detailIntent.putExtra(mCon.getString(R.string.putExtraDescription), getItem(position).getDescription());
                 mCon.startActivity(detailIntent);
             }
         });

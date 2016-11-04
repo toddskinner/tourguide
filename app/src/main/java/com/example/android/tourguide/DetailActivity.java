@@ -25,20 +25,20 @@ public class DetailActivity extends AppCompatActivity {
 
         Bundle extras = getIntent().getExtras();
         if(extras != null) {
-            int intName = extras.getInt("name");
+            int intName = extras.getInt(getString(R.string.putExtraName));
             String detailName = getResources().getString(intName);
 
-            int intAddress = extras.getInt("address");
+            int intAddress = extras.getInt(getString(R.string.putExtraAddress));
             String detailAddress = getResources().getString(intAddress);
 
-            int intDescription = extras.getInt("description");
+            int intDescription = extras.getInt(getString(R.string.putExtraDescription));
             String detailDescription = getResources().getString(intDescription);
 
             detailNameTextView.setText(detailName);
             detailAddressTextView.setText(detailAddress);
             detailDescriptionTextView.setText(detailDescription);
 
-            int intImage = extras.getInt("image");
+            int intImage = extras.getInt(getString(R.string.putExtraImage));
             image.setImageResource(intImage);
         }
     }

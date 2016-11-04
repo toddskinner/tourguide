@@ -170,4 +170,9 @@
     <string name="yaowarat_desription">Yaowarat Road in Samphanthawong district is home to Bangkok\'s Chinatown, which is centred on Sam Pheng Lane Chinatown\'s Sam Pheng Market is an old business centre noted for a post-WW II visit by the young king Ananda Mahidol.</string>
 
     <string name="bangkok_guide">Bangkok Guide</string>
+
+    <string name="putExtraName">name</string>
+    <string name="putExtraAddress">address</string>
+    <string name="putExtraImage">image</string>
+    <string name="putExtraDescription">description</string>
 </resources>
