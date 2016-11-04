@@ -19,11 +19,11 @@
 
     <string name="okura_prestige">The Okura Prestige</string>
     <string name="okura_prestige_address">Wireless Rd., Bangkok</string>
-    <string name="okura_prestige_desription"></string>
+    <string name="okura_prestige_desription">Embracing Asian design that harmonizes Japanese and Thai cultures, the hotel boasts cutting-edge facilities, an outdoor swimming pool that protrudes high up from the building, a sophisticated spa, and a range of restaurants, among others, these comfortable spaces, combined with the attentive hospitality of the hotel, ensure guests a peaceful stay.</string>
 
     <string name="the_siam">The Siam</string>
     <string name="the_siam_address">3/2 Khao Rd., Bangkok</string>
-    <string name="the_siam_desription"></string>
+    <string name="the_siam_desription">Set along the Chao Phraya River and a 4-minute walk from the closest bus stop, this fashionable hotel is also 6 km from the Grand Palace. Plush suites with a blend of art deco and contemporary design offer free Wi-Fi, flat-screen TVs and minibars, plus soaking tubs and living areas. Upgraded units add river views, while luxe villas have private pools, gardens and rooftop terraces.</string>
 
     <string name="banyan_tree">Banyan Tree Hotel</string>
     <string name="banyan_tree_address">21 S. Sathorn Rd, Bangkok</string>
@@ -31,7 +31,7 @@
 
     <string name="the_peninsula">The Peninsula</string>
     <string name="the_peninsula_address">333 Charoennakorn Rd., Bangkok</string>
-    <string name="the_peninsula_desription"></string>
+    <string name="the_peninsula_desription">On the banks of the Chao Phraya River, this sophisticated hotel is 4 km from the iconic Wat Pho Buddhist temple grounds. Featuring city and river views, rooms and suites offer flat-screen TVs, free Wi-Fi and iPod docks. Upgraded rooms include sofas and landscaped balconies, while suites add living and dining areas with burnished gold ceilings, terraces with hot tubs, and/or 2 stories. Room and butler service is offered 24/7.</string>
 
     <string name="the_sukhothai">The Sukhothai</string>
     <string name="the_sukhothai_address">13/3 S. Sathorn Rd., Bangkok</string>
@@ -39,137 +39,135 @@
 
     <string name="anantara_riverside">Anantara Riverside Resort</string>
     <string name="anantara_riverside_address">257/1\-3 Charoennakorn Rd., Bangkok</string>
-    <string name="anantara_riverside_desription"></string>
+    <string name="anantara_riverside_desription">Escape Bangkok\’s bustle in the beautifully landscaped grounds of Anantara Riverside Bangkok Resort. Overlooking the Chao Phraya River, it boasts a large outdoor pool with spa jets and spacious Thai-style rooms.</string>
 
     <string name="siam_kempinski">Siam Kempinski</string>
     <string name="siam_kempinski_address">991/9 Rama I Rd., Bangkok</string>
-    <string name="siam_kempinski_desription">This luxury, high-rise hotel is an 8-minute walk from the Siam skytrain station and a 13-minute walk from Pratunam Market.
-
-The ultrachic rooms provide Wi-Fi, minibars and flat-screens, plus tea and coffeemaking facilities. Upgraded rooms add kitchenettes and balconies; club rooms and some suites provide access to a lounge with free breakfast, drinks and snacks. Suites also offer kitchens, Jacuzzis and living rooms.</string>
+    <string name="siam_kempinski_desription">This luxury, high-rise hotel is an 8-minute walk from the Siam skytrain station and a 13-minute walk from Pratunam Market.  The ultrachic rooms provide Wi-Fi, minibars and flat-screens, plus tea and coffeemaking facilities. Upgraded rooms add kitchenettes and balconies; club rooms and some suites provide access to a lounge with free breakfast, drinks and snacks. Suites also offer kitchens, Jacuzzis and living rooms.</string>
 
     <string name="intercontinental">The Intercontinental</string>
     <string name="intercontinental_address">973 Phloen Chit Rd., Bangkok</string>
-    <string name="intercontinental_desription"></string>
+    <string name="intercontinental_desription">The modern InterContinental Bangkok offers luxurious accommodations in Pathumwan, just 650 feet from Chitlom BTS Skytrain Station. It provides pampering spa treatments, an outdoor pool and 5 dining options.  InterContinental Bangkok is a short 5 minute walk from shopping at Central World Plaza and Gaysorn Plaza.</string>
 
     <string name="gaggan">Gaggan</string>
     <string name="gaggan_address">68/1 Lang Suan Rd., Bangkok</string>
-    <string name="gaggan_desription"></string>
+    <string name="gaggan_desription">Gaggan is a restaurant run by chef Gaggan Anand in Bangkok, Thailand. In 2015, it was named by Restaurant magazine as the best restaurant in Asia in the list of The World\'s 50 Best Restaurants, placing 10th overall worldwide.</string>
 
     <string name="appia">Appia</string>
     <string name="appia_address">20/4 Sukhumvit Soi 31, Bangkok</string>
-    <string name="appia_desription"></string>
+    <string name="appia_desription">Since opening last year, Appia has quickly become a mainstay of the Bangkok dining scene, so much so that we can\’t imagine Bangkok without it. This convivial Roman style trattoria is home to some serious Italian cooking; with many dishes based on Chef/Owner Paolo Vitaletti\’s own family recipes, which goes a long way to way to explaining why eating here is such a heartwarming dining experience.</string>
 
     <string name="soulfood">Soulfood Mahanakorn</string>
     <string name="soulfood_address">56/10 Sukhumvit Soi 55, Bangkok</string>
-    <string name="soulfood_desription"></string>
+    <string name="soulfood_desription">Soul Food Mahanakorn is located in the Watthana district of Bangkok on Sukhumvit Soi 55. This venue is both a cocktail bar and Thai restaurant. It serves the kind of food that one can find on the side of the street within a comfortable setting.</string>
 
     <string name="nahm">Nahm</string>
     <string name="nahm_address">27 Sathorn Rd., Bangkok</string>
-    <string name="nahm_desription"></string>
+    <string name="nahm_desription">At nahm restaurant, Thai cuisine is showcased by using some of the best market-fresh produce in the world, all carefully put together by Executive Chef David Thompson and his experienced team. Standout dishes feature rare ingredients from all regions of Thailand, including a jungle curry with \‘pla chorn\’ (a Thai freshwater fish). David also creates a colourful array of salty and sweet Thai desserts.</string>
 
     <string name="bolan">Bo.lan</string>
     <string name="bolan_address">24 Sukhumvit Soi 53, Bangkok</string>
-    <string name="bolan_desription"></string>
+    <string name="bolan_desription">Bo.Lan has been recognised for many years as one of the best Thai restaurants in Bangkok. Famed for initiating the concept of fine dining Thai cuisine in the city, here you can sample age old recipes made from the absolute best ingredients but presented with the flair of European haute cuisine.</string>
 
     <string name="chefman">Chef Man</string>
     <string name="chefman_address">24 Sukhumvit Soi 53, Bangkok</string>
-    <string name="chefman_desription"></string>
+    <string name="chefman_desription">Located in Eastin Grand Sathorn, Chef Man is probably the most popular place for dim sum these days. If you\’re thinking about going there, make your reservation yesterday. It took us a month to get a lunchtime table and dinnertime tables weren’t available for some three months.</string>
 
     <string name="somboon">Somboon Seafood</string>
     <string name="somboon_address">169/7\-12 Surawong Rd, Bangkok</string>
-    <string name="somboon_desription"></string>
+    <string name="somboon_desription">Somboon Seafood Restaurant franchises are located all around Thailand and are known for their quality seafood. Some of their well know dishes includes their garlic shrimps and their steamed grouper. Their squid and oysters are also very good and wash it all down with a bottle of wine or some Singha or Chang beer.</string>
 
     <string name="danielthaiger">Daniel Thaiger</string>
     <string name="danielthaiger_address"> Sukhumvit 30 Alley, Bangkok</string>
-    <string name="danielthaiger_desription"></string>
+    <string name="danielthaiger_desription">The Daniel Thaiger food truck was once one of Bangkok\’s best kept secrets, serving up a variety of burgers to Bangkok’s locals and those savvy enough to know about it. But the secret is out, and the word is that anybody in search of a great burger should pay a visit to these guys.</string>
 
     <string name="eatme">Eat Me</string>
     <string name="eatme_address">1/6 Soi Phiphat 2, Bangkok</string>
-    <string name="eatme_desription"></string>
+    <string name="eatme_desription">The name is less of a suggestion and more a promise of something irresistible. This gallery and restaurant on Soi Convent in Silom lives up to its name by serving mouth-watering modern international food, good drinks and some very tasty desserts. The restaurant has been wowing the crowds for years which is no mean feat given Bangkok’s fickle dining scene and even fickler diners. Things are kept things fresh with ever-changing art exhibitions, an inventive menu and a smart casual dress code.</string>
 
     <string name="lordjims">Lord Jims</string>
     <string name="lordjims_address">48 Oriental Ave., Bangkok</string>
-    <string name="lordjims_desription"></string>
+    <string name="lordjims_desription">Named after the seafaring hero created by novelist Joseph Conrad, Lord Jim\’s reputation for magnificent seafood is almost as well known as its namesake. Enjoying an uninterrupted view of the river, Lord Jim\’s serves one of the most popular buffet lunches in Bangkok with a wide selection of seafood and international dishes on offer. For dinner, diners can choose from an à la carte or set menu. Focusing on the freshest seafood available, Lord Jim\’s is particularly renowned for its sushi and sashimi dishes.</string>
 
     <string name="ironfairies">Iron Fairies</string>
     <string name="ironfairies_address">404 Sukhumvit Soi 55, Bangkok</string>
-    <string name="ironfairies_desription"></string>
+    <string name="ironfairies_desription">Iron Fairies is a magical bar that is designed like an ironsmith’s workshop: dark and broody, with wrought iron staircases, exposed pipes and dilapidated timber and brick. Bottles fairy dust are stacked in rows, and everywhere you look you could chance upon little iron figurines of the winged creatures that give the bar its name.</string>
 
     <string name="maggiechoos">Maggie Choo\'s</string>
     <string name="maggiecchoos_address">320 Silom Rd, Silom, Bangkok</string>
-    <string name="maggiecchoos_desription"></string>
+    <string name="maggiecchoos_desription">At underground Bangkok bar Maggie Choo\’s, British colonial-era furnishings blend seamlessly with retro-Chinese influences to create a whimsical space that evokes a 1930\′s Shanghai cabaret establishment. Meticulously decorated in the style of the period – the basement level space has been transformed into an intriguing venue that melds a Victorian-era gentlemen\’s club vibe with a sophisticated live music experience.</string>
 
     <string name="above_eleven">Above Eleven</string>
     <string name="above_eleven_address">38/8 Soi Sukhumvit 11, Bangkok</string>
-    <string name="above_eleven_desription"></string>
+    <string name="above_eleven_desription">Above Eleven is a very popular 32-storey rooftop bar on Sukhumvit Soi 11 that offers a more vibrant experience than most other rooftops in Bangkok. A few things set this bar apart; Peruvian cuisine, modern party music and value for money signature cocktails being the most apparent.</string>
 
     <string name="singsing">Sing Sing Theater</string>
     <string name="singsing_address">Sukhumvit Soi 45, Bangkok</string>
-    <string name="singsing_desription"></string>
+    <string name="singsing_desription">Sing Sing Theater is a fantastical bar-cum-club with the most creative interior design concept in Bangkok. Paying homage to far Eastern aesthetics, you can expect intricate wrought iron patterns, hundreds of lanterns hanging from the ceiling and plenty of dragon imagery to go with the \‘Muses\’ (elegant girls dressed in Chinese Qipao). There is a big push into concept parties at Sing Sing too, with themes like Underwater or Carnival being completely immersive experiences and a whole lot of fun.</string>
 
     <string name="smalls">Smalls</string>
     <string name="smalls_address">186/3 Suanphlu Soi 1, Bangkok</string>
-    <string name="smalls_desription"></string>
+    <string name="smalls_desription">Smalls is run by David Jacobson, the founder of Q Bar and a bit of a nightlife legend. The laidback, late-night bar is split over three rickety levels of an old corner townhouse where the owner\'s prized collection of contemporary art matches with a hands-off approach to restoration.</string>
 
     <string name="vesper">Vesper</string>
     <string name="vesper_address">10/15 Soi Convent Rd., Bangkok</string>
-    <string name="vesper_desription"></string>
+    <string name="vesper_desription">Recently opened cocktail bar and restaurant Vesper represents a noteworthy addition to the limited coterie of first rate cocktail bars in Bangkok. Offering a polished cocktail program together with casual bistro dining, Vesper seeks to replicate for a discerning Bangkok clientele the finely honed refinement that distinguishes the preeminent cocktail bars of London and Europe. Located in the heart of the Silom business district, Vesper exudes a cosy, sociable atmosphere ideal for the appreciation of the well-crafted cocktails, and the traditional bistro dishes of primarily Italian and Spanish origins.</string>
 
     <string name="hyde_seek">Hyde &amp; Seek</string>
     <string name="hyde_seek_address">65/1 Soi Ruamrudee, Bangkok</string>
-    <string name="hyde_seek_desription"></string>
+    <string name="hyde_seek_desription">Conceptualised by celebrity chef Ian Kittichai, Hyde &amp; Seek Gastro Bar had been called Thailand’s first \“London-meets-New-York-meets-Asia\” gastro bar.</string>
 
     <string name="rabbit_hole">Rabbit Hole</string>
     <string name="rabbit_hole_address">125 Sukhumvit Soi 55, Bangkok</string>
-    <string name="rabbit_hole_desription"></string>
+    <string name="rabbit_hole_desription">Located behind a wooden door next to Ainu Japanese restaurant, Rabbit Hole is a three-story bar that retains the rustic structure of its converted shop house shell but revels in a luxurious renovation involving polished copper and brass. Whiskey fans can pick their favorite from a selection of bottles straddling the copper rack behind the bar. The drinks list combines herbal, smoked and homemade ingredients to play up signature cocktails. </string>
 
     <string name="beam">Beam</string>
     <string name="beam_address">1/F, 72 Sukhumvit Soi 55, Bangkok</string>
-    <string name="beam_desription"></string>
+    <string name="beam_desription">Beam Nightclub Bangkok is one of the latest underground dance clubs to open in the city, bringing underground house and techno music to Bangkok. The music policy is strictly adhering to the \‘cooler\’ elements of the dance music scene so don’t expect to hear and vocal EDM tracks. The music style you are most likely to hear is minimal and deep tech-house in the bare, dark main room that is more reminiscent of European dance clubs. The acoustics sound system at Beam Club Bangkok is incredibly good, as is the LED laser and light show.</string>
 
     <string name="havana_social">Havana Social</string>
     <string name="havana_social_address">Sukhumvit Soi 11, Bangkok</string>
-    <string name="havana_social_desription"></string>
+    <string name="havana_social_desription">Havana Social Bangkok is a cool new bar on Sukhumvit Soi 11, which takes a prohibition theme to new heights of authenticity. Think dim lights, classic rum cocktails, exposed beams and crumbling plaster – the 1940s pre-revolution Cuba theme is painstakingly well executed. Bar staff are smartly dressed and coiffured, as are the socialite crowd who were cool enough to find their way to this \‘secret\’ bar.</string>
 
     <string name="grand_palace">Grand Palace</string>
     <string name="grand_palace_address">Na Phra Lan Rd, Bangkok</string>
-    <string name="grand_palace_desription"></string>
+    <string name="grand_palace_desription">The Grand Palace is a complex of buildings at the heart of Bangkok, Thailand. The palace has been the official residence of the Kings of Siam since 1782. </string>
 
     <string name="wat_arun">Wat Arun</string>
     <string name="wat_arun_address">158 Wang Doem Rd., Bangkok</string>
-    <string name="wat_arun_desription"></string>
+    <string name="wat_arun_desription">Wat Arun Ratchawararam Ratchawaramahawihan or Wat Arun is a Buddhist temple in Bangkok Yai district of Bangkok, Thailand, on the Thonburi west bank of the Chao Phraya River.</string>
 
     <string name="khaosan">Khaosan Road</string>
     <string name="khaosan_address">Khaosan Rd., Bangkok</string>
-    <string name="khaosan_desription"></string>
+    <string name="khaosan_desription">Khao San road, which represents a series of streets, is a place in downtown Bangkok where backpackers and tourists are immediately drawn to from when they first touch down in the airport.</string>
 
     <string name="wat_phra_kaew">Wat Phra Kaew</string>
     <string name="wat_phra_kaew_address">Na Phra Lan Rd., Bangkok</string>
-    <string name="wat_phra_kaew_desription"></string>
+    <string name="wat_phra_kaew_desription">Wat Phra Kaew is regarded as the most sacred Buddhist temple in Thailand. The temple complex is located in the Phra Nakhon District of Bangkok. </string>
 
     <string name="jim_thompson">Jim Thompson House</string>
     <string name="jim_thompson_address">Rama I Rd, Wang Mai, Bangkok</string>
-    <string name="jim_thompson_desription"></string>
+    <string name="jim_thompson_desription">The Jim Thompson House is now a museum in Bangkok. It is a complex of various old Thai structures that the American businessman Jim Thompson collected from all parts of Thailand in the 1950s and 1960s.</string>
 
     <string name="golden_buddha">Temple of the Golden Buddha</string>
     <string name="golden_buddha_address">661 Chaoren Krung Rd., Bangkok</string>
-    <string name="golden_buddha_desription"></string>
+    <string name="golden_buddha_desription">Located at the end of Chinatown\'s Yaowarat Road, near Hualampong Railway Station, Wat Traimit houses the world\'s largest massive gold seated Buddha measuring nearly five metres in height and weighing five and a half tons. In the past, artisans crafted the Buddhas in gold and disguised them from invading armies by a covering of stucco and plaster.</string>
 
     <string name="lumphini_park">Lumphini Park</string>
     <string name="lumphini_park_address">139/4 Thanon Witthayu, Bangkok </string>
-    <string name="lumphini_park_desription"></string>
+    <string name="lumphini_park_desription">Lumphini Park is a 360 rai park in Bangkok, Thailand. The park offers rare open public space, trees, and playgrounds in the Thai capital and contains an artificial lake where visitors can rent boats.</string>
 
     <string name="chatuchak">Chatuchak Weekend Market</string>
     <string name="chatuchak_address">587/10 Kamphaeng Phet 2 Rd, Bangkok</string>
-    <string name="chatuchak_desription"></string>
+    <string name="chatuchak_desription">The Chatuchak Weekend Market, on Kamphaeng Phet 2 Road, Chatuchak, Bangkok, is the largest market in Thailand. Also known as JJ Market, it has more than 8,000 stalls, divided into 27 sections.</string>
 
     <string name="wat_pho">Wat Pho</string>
     <string name="wat_pho_address">2 Sanamchai Road, Bangkok</string>
-    <string name="wat_pho_desription"></string>
+    <string name="wat_pho_desription">Wat Pho, also spelt Wat Po, is a Buddhist temple complex in the Phra Nakhon District, Bangkok, Thailand. It is on Rattanakosin Island, directly south of the Grand Palace.</string>
 
     <string name="yaowarat">Yaowarat District</string>
     <string name="yaowarat_address">Yaowarat Rd., Bangkok</string>
-    <string name="yaowarat_desription"></string>
+    <string name="yaowarat_desription">Yaowarat Road in Samphanthawong district is home to Bangkok\'s Chinatown, which is centred on Sam Pheng Lane Chinatown\'s Sam Pheng Market is an old business centre noted for a post-WW II visit by the young king Ananda Mahidol.</string>
 
     <string name="bangkok_guide">Bangkok Guide</string>
 </resources>

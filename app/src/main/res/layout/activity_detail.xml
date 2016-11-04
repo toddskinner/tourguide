@@ -36,7 +36,6 @@
             android:textAppearance="?android:textAppearanceMedium"
             android:paddingBottom="30dp"
             android:textStyle="italic"
-
             android:textColor="@android:color/black"
             android:id="@+id/detailAddress"/>
 
@@ -47,6 +46,7 @@
             android:layout_marginRight="30dp"
             android:textAppearance="?android:textAppearanceSmall"
             android:textColor="@android:color/black"
+            android:layout_marginBottom="20dp"
             android:id="@+id/detailDescription"/>
 
     </LinearLayout>
