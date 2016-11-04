@@ -1,7 +1,9 @@
 package com.example.android.tourguide;
 
+import android.support.v4.app.NavUtils;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -18,7 +20,6 @@ public class DetailActivity extends AppCompatActivity {
         TextView detailAddressTextView = (TextView) findViewById(R.id.detailAddress);
         TextView detailDescriptionTextView = (TextView) findViewById(R.id.detailDescription);
         ImageView image = (ImageView) findViewById(R.id.detailImage);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         Bundle extras = getIntent().getExtras();
         if(extras != null) {

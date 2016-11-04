@@ -15,9 +15,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".DetailActivity"
-            android:parentActivityName="com.example.android.tourguide.MainActivity" >
-        </activity>
+        <activity android:name=".DetailActivity"></activity>
     </application>
 
 </manifest>
