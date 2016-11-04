@@ -67,6 +67,7 @@ public class ListItemAdapter extends ArrayAdapter<ListItem> {
                 detailIntent.putExtra("name", getItem(position).getName());
                 detailIntent.putExtra("address", getItem(position).getAddress());
                 detailIntent.putExtra("image", getItem(position).getImageResourceID());
+                detailIntent.putExtra("description", getItem(position).getDescription());
                 mCon.startActivity(detailIntent);
             }
         });

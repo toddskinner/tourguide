@@ -9,21 +9,24 @@ import static com.example.android.tourguide.R.id.address;
 public class ListItem {
     private int mNameID;
     private int mAddressID;
+    private int mDescription;
     private int mImageResourceID = NO_IMAGE_PROVIDED;
     private static final int NO_IMAGE_PROVIDED = -1;
 
-    public ListItem(int nameID, int addressID){
+    public ListItem(int nameID, int addressID, int descriptionID){
         mNameID = nameID;
         mAddressID = addressID;
+        mDescription = descriptionID;
     }
 
     /**
      * Constructs a new ListItem with initial values for name, address, and image resource ID.
      */
-    public ListItem(int nameID, int addressID, int imageResourceID){
+    public ListItem(int nameID, int addressID, int imageResourceID, int descriptionID){
         mNameID = nameID;
         mAddressID = addressID;
         mImageResourceID = imageResourceID;
+        mDescription = descriptionID;
     }
 
     /**
@@ -33,6 +36,15 @@ public class ListItem {
      */
     public int getName(){
         return mNameID;
+    }
+
+    /**
+     * Gets the string value of the description.
+     *
+     * @return current text in the description.
+     */
+    public int getDescription(){
+        return mDescription;
     }
 
     /**

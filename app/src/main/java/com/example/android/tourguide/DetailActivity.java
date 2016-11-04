@@ -16,7 +16,9 @@ public class DetailActivity extends AppCompatActivity {
         setContentView(R.layout.activity_detail);
         TextView detailNameTextView = (TextView) findViewById(R.id.detailName);
         TextView detailAddressTextView = (TextView) findViewById(R.id.detailAddress);
+        TextView detailDescriptionTextView = (TextView) findViewById(R.id.detailDescription);
         ImageView image = (ImageView) findViewById(R.id.detailImage);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         Bundle extras = getIntent().getExtras();
         if(extras != null) {
@@ -26,8 +28,12 @@ public class DetailActivity extends AppCompatActivity {
             int intAddress = extras.getInt("address");
             String detailAddress = getResources().getString(intAddress);
 
+            int intDescription = extras.getInt("description");
+            String detailDescription = getResources().getString(intDescription);
+
             detailNameTextView.setText(detailName);
             detailAddressTextView.setText(detailAddress);
+            detailDescriptionTextView.setText(detailDescription);
 
             int intImage = extras.getInt("image");
             image.setImageResource(intImage);

@@ -8,85 +8,168 @@
     <string name="hotels_fragment">Hotels</string>
     <string name="restaurants_fragment">Eats</string>
     <string name="sights_fragment">Sights</string>
+
     <string name="mandarin_oriental">The Mandarin Oriental</string>
     <string name="mandarin_oriental_address">48 Oriental Ave., Bangkok</string>
+    <string name="mandarin_oriental_desription">Five-star hotel in Bangkok owned in part and managed by Mandarin Oriental Hotel Group. Located on the banks of the Chao Phraya River, the original structure was the first hotel built in Thailand when it opened as The Oriental in 1876. Today, the hotel is one of two flagship properties of Mandarin Oriental Hotel Group and is known for service, which consistently places it among the world\'s best hotels</string>
+
     <string name="st_regis">The St. Regis</string>
     <string name="st_regis_address">Rajadamri Rd., Bangkok </string>
+    <string name="st_regis_desription">The St Regis Bangkok is one of the most luxurious hotel properties in the Thai capital. It enjoys a premier location in a skyscraper along Rajadamri Road, near the city’s elite business institutions, superb restaurants, and fine boutiques. The hotel’s 228 guest rooms, including 51 suites, are beautifully appointed with plush furnishings, refined amenities, and unobstructed views.</string>
+
     <string name="okura_prestige">The Okura Prestige</string>
     <string name="okura_prestige_address">Wireless Rd., Bangkok</string>
+    <string name="okura_prestige_desription"></string>
+
     <string name="the_siam">The Siam</string>
     <string name="the_siam_address">3/2 Khao Rd., Bangkok</string>
+    <string name="the_siam_desription"></string>
+
     <string name="banyan_tree">Banyan Tree Hotel</string>
     <string name="banyan_tree_address">21 S. Sathorn Rd, Bangkok</string>
+    <string name="banyan_tree_desription">With a stay at Banyan Tree Bangkok, you\'ll be centrally located in Bangkok, steps from Embassy of Australia and minutes from Embassy of Malaysia. This five star hotel is within close proximity of Embassy of Germany and Canadian Embassy. </string>
+
     <string name="the_peninsula">The Peninsula</string>
     <string name="the_peninsula_address">333 Charoennakorn Rd., Bangkok</string>
+    <string name="the_peninsula_desription"></string>
+
     <string name="the_sukhothai">The Sukhothai</string>
     <string name="the_sukhothai_address">13/3 S. Sathorn Rd., Bangkok</string>
+    <string name="the_sukhothai_desription">This understated and underrated hotel, set amid six acres of gardens in the diplomatic nexus of Bangkok, is an oasis of calm, removed from the hustle and bustle. Design elements include pitched roofs, lotus ponds, and thirteenth-century replica stupas.</string>
+
     <string name="anantara_riverside">Anantara Riverside Resort</string>
     <string name="anantara_riverside_address">257/1\-3 Charoennakorn Rd., Bangkok</string>
+    <string name="anantara_riverside_desription"></string>
+
     <string name="siam_kempinski">Siam Kempinski</string>
     <string name="siam_kempinski_address">991/9 Rama I Rd., Bangkok</string>
+    <string name="siam_kempinski_desription">This luxury, high-rise hotel is an 8-minute walk from the Siam skytrain station and a 13-minute walk from Pratunam Market.
+
+The ultrachic rooms provide Wi-Fi, minibars and flat-screens, plus tea and coffeemaking facilities. Upgraded rooms add kitchenettes and balconies; club rooms and some suites provide access to a lounge with free breakfast, drinks and snacks. Suites also offer kitchens, Jacuzzis and living rooms.</string>
+
     <string name="intercontinental">The Intercontinental</string>
     <string name="intercontinental_address">973 Phloen Chit Rd., Bangkok</string>
+    <string name="intercontinental_desription"></string>
+
     <string name="gaggan">Gaggan</string>
     <string name="gaggan_address">68/1 Lang Suan Rd., Bangkok</string>
+    <string name="gaggan_desription"></string>
+
     <string name="appia">Appia</string>
     <string name="appia_address">20/4 Sukhumvit Soi 31, Bangkok</string>
+    <string name="appia_desription"></string>
+
     <string name="soulfood">Soulfood Mahanakorn</string>
     <string name="soulfood_address">56/10 Sukhumvit Soi 55, Bangkok</string>
+    <string name="soulfood_desription"></string>
+
     <string name="nahm">Nahm</string>
     <string name="nahm_address">27 Sathorn Rd., Bangkok</string>
+    <string name="nahm_desription"></string>
+
     <string name="bolan">Bo.lan</string>
     <string name="bolan_address">24 Sukhumvit Soi 53, Bangkok</string>
+    <string name="bolan_desription"></string>
+
     <string name="chefman">Chef Man</string>
     <string name="chefman_address">24 Sukhumvit Soi 53, Bangkok</string>
+    <string name="chefman_desription"></string>
+
     <string name="somboon">Somboon Seafood</string>
     <string name="somboon_address">169/7\-12 Surawong Rd, Bangkok</string>
+    <string name="somboon_desription"></string>
+
     <string name="danielthaiger">Daniel Thaiger</string>
     <string name="danielthaiger_address"> Sukhumvit 30 Alley, Bangkok</string>
+    <string name="danielthaiger_desription"></string>
+
     <string name="eatme">Eat Me</string>
     <string name="eatme_address">1/6 Soi Phiphat 2, Bangkok</string>
+    <string name="eatme_desription"></string>
+
     <string name="lordjims">Lord Jims</string>
     <string name="lordjims_address">48 Oriental Ave., Bangkok</string>
+    <string name="lordjims_desription"></string>
+
     <string name="ironfairies">Iron Fairies</string>
     <string name="ironfairies_address">404 Sukhumvit Soi 55, Bangkok</string>
+    <string name="ironfairies_desription"></string>
+
     <string name="maggiechoos">Maggie Choo\'s</string>
     <string name="maggiecchoos_address">320 Silom Rd, Silom, Bangkok</string>
+    <string name="maggiecchoos_desription"></string>
+
     <string name="above_eleven">Above Eleven</string>
     <string name="above_eleven_address">38/8 Soi Sukhumvit 11, Bangkok</string>
+    <string name="above_eleven_desription"></string>
+
     <string name="singsing">Sing Sing Theater</string>
     <string name="singsing_address">Sukhumvit Soi 45, Bangkok</string>
+    <string name="singsing_desription"></string>
+
     <string name="smalls">Smalls</string>
     <string name="smalls_address">186/3 Suanphlu Soi 1, Bangkok</string>
+    <string name="smalls_desription"></string>
+
     <string name="vesper">Vesper</string>
     <string name="vesper_address">10/15 Soi Convent Rd., Bangkok</string>
+    <string name="vesper_desription"></string>
+
     <string name="hyde_seek">Hyde &amp; Seek</string>
     <string name="hyde_seek_address">65/1 Soi Ruamrudee, Bangkok</string>
+    <string name="hyde_seek_desription"></string>
+
     <string name="rabbit_hole">Rabbit Hole</string>
     <string name="rabbit_hole_address">125 Sukhumvit Soi 55, Bangkok</string>
+    <string name="rabbit_hole_desription"></string>
+
     <string name="beam">Beam</string>
     <string name="beam_address">1/F, 72 Sukhumvit Soi 55, Bangkok</string>
+    <string name="beam_desription"></string>
+
     <string name="havana_social">Havana Social</string>
     <string name="havana_social_address">Sukhumvit Soi 11, Bangkok</string>
+    <string name="havana_social_desription"></string>
+
     <string name="grand_palace">Grand Palace</string>
     <string name="grand_palace_address">Na Phra Lan Rd, Bangkok</string>
+    <string name="grand_palace_desription"></string>
+
     <string name="wat_arun">Wat Arun</string>
     <string name="wat_arun_address">158 Wang Doem Rd., Bangkok</string>
+    <string name="wat_arun_desription"></string>
+
     <string name="khaosan">Khaosan Road</string>
     <string name="khaosan_address">Khaosan Rd., Bangkok</string>
+    <string name="khaosan_desription"></string>
+
     <string name="wat_phra_kaew">Wat Phra Kaew</string>
     <string name="wat_phra_kaew_address">Na Phra Lan Rd., Bangkok</string>
+    <string name="wat_phra_kaew_desription"></string>
+
     <string name="jim_thompson">Jim Thompson House</string>
     <string name="jim_thompson_address">Rama I Rd, Wang Mai, Bangkok</string>
+    <string name="jim_thompson_desription"></string>
+
     <string name="golden_buddha">Temple of the Golden Buddha</string>
     <string name="golden_buddha_address">661 Chaoren Krung Rd., Bangkok</string>
+    <string name="golden_buddha_desription"></string>
+
     <string name="lumphini_park">Lumphini Park</string>
     <string name="lumphini_park_address">139/4 Thanon Witthayu, Bangkok </string>
+    <string name="lumphini_park_desription"></string>
+
     <string name="chatuchak">Chatuchak Weekend Market</string>
     <string name="chatuchak_address">587/10 Kamphaeng Phet 2 Rd, Bangkok</string>
+    <string name="chatuchak_desription"></string>
+
     <string name="wat_pho">Wat Pho</string>
     <string name="wat_pho_address">2 Sanamchai Road, Bangkok</string>
+    <string name="wat_pho_desription"></string>
+
     <string name="yaowarat">Yaowarat District</string>
     <string name="yaowarat_address">Yaowarat Rd., Bangkok</string>
+    <string name="yaowarat_desription"></string>
+
     <string name="bangkok_guide">Bangkok Guide</string>
 </resources>
