@@ -30,16 +30,15 @@ public class ListItemAdapter extends ArrayAdapter<ListItem> {
 
     @Override
     public View getView(final int position, View convertView, ViewGroup parent) {
-        View listItemView = convertView;
 
-        if (listItemView == null) {
-            listItemView = LayoutInflater.from(getContext()).inflate(
+        if (convertView == null) {
+            convertView = LayoutInflater.from(getContext()).inflate(
                     R.layout.list_item, parent, false);
         }
 
         ListItem currentListItem = getItem(position);
 
-        ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
+        ImageView imageView = (ImageView) convertView.findViewById(R.id.image);
         if (currentListItem.hasImage()) {
             imageView.setImageResource(currentListItem.getImageResourceID());
             imageView.setVisibility(View.VISIBLE);
@@ -47,14 +46,14 @@ public class ListItemAdapter extends ArrayAdapter<ListItem> {
             imageView.setVisibility(View.GONE);
         }
 
-        TextView nameTextView = (TextView) listItemView.findViewById(R.id.name);
+        TextView nameTextView = (TextView) convertView.findViewById(R.id.name);
         nameTextView.setText(currentListItem.getName());
 
-        TextView addressTextView = (TextView) listItemView.findViewById(R.id.address);
+        TextView addressTextView = (TextView) convertView.findViewById(R.id.address);
         addressTextView.setText(currentListItem.getAddress());
 
-        View textContainer = (View) listItemView.findViewById(R.id.text_container);
-        View paddingView = (View) listItemView.findViewById(R.id.view_padding);
+        View textContainer = (View) convertView.findViewById(R.id.text_container);
+        View paddingView = (View) convertView.findViewById(R.id.view_padding);
         int color = ContextCompat.getColor(getContext(), mColorResourceID);
         textContainer.setBackgroundColor(color);
         imageView.setBackgroundColor(color);
@@ -62,7 +61,7 @@ public class ListItemAdapter extends ArrayAdapter<ListItem> {
 
         //found on StackOverflow
 
-        listItemView.setOnClickListener(new View.OnClickListener(){
+        convertView.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View view){
                 Intent detailIntent = new Intent(mCon, DetailActivity.class);
@@ -74,7 +73,7 @@ public class ListItemAdapter extends ArrayAdapter<ListItem> {
             }
         });
 
-        return listItemView;
+        return convertView;
     }
 }
 
