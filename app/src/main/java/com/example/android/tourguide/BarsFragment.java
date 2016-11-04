@@ -33,7 +33,7 @@ public class BarsFragment extends Fragment {
         items.add(new ListItem(R.string.hyde_seek, R.string.hyde_seek_address, R.drawable.hyde_seek));
         items.add(new ListItem(R.string.rabbit_hole, R.string.rabbit_hole_address, R.drawable.rabbit_hole));
 
-        ListItemAdapter adapter = new ListItemAdapter(getActivity(), items, R.color.category_bars);
+        ListItemAdapter adapter = new ListItemAdapter(getActivity(), items, R.color.category_all);
         ListView listView = (ListView) rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);
 

@@ -33,7 +33,7 @@ public class SightsFragment extends Fragment {
         items.add(new ListItem(R.string.golden_buddha, R.string.golden_buddha_address, R.drawable.golden_buddha));
         items.add(new ListItem(R.string.chatuchak, R.string.chatuchak_address, R.drawable.chatuchak));
 
-        ListItemAdapter adapter = new ListItemAdapter(getActivity(), items, R.color.category_sights);
+        ListItemAdapter adapter = new ListItemAdapter(getActivity(), items, R.color.category_all);
         ListView listView = (ListView) rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);
 

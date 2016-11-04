@@ -33,7 +33,7 @@ public class RestaurantsFragment extends Fragment {
         items.add(new ListItem(R.string.eatme, R.string.eatme_address, R.drawable.eat_me));
         items.add(new ListItem(R.string.somboon, R.string.somboon_address, R.drawable.somboon_seafood));
 
-        ListItemAdapter adapter = new ListItemAdapter(getActivity(), items, R.color.category_restaurants);
+        ListItemAdapter adapter = new ListItemAdapter(getActivity(), items, R.color.category_all);
         ListView listView = (ListView) rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);
 

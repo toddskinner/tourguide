@@ -34,7 +34,7 @@ public class HotelsFragment extends Fragment {
         items.add(new ListItem(R.string.okura_prestige, R.string.okura_prestige_address, R.drawable.okura));
         items.add(new ListItem(R.string.anantara_riverside, R.string.anantara_riverside_address, R.drawable.anantara));
 
-        ListItemAdapter adapter = new ListItemAdapter(getActivity(), items, R.color.category_hotels);
+        ListItemAdapter adapter = new ListItemAdapter(getActivity(), items, R.color.category_all);
         ListView listView = (ListView) rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);
 
