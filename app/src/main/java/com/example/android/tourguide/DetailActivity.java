@@ -2,6 +2,7 @@ package com.example.android.tourguide;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import static com.example.android.tourguide.R.id.detailAddress;
@@ -15,15 +16,21 @@ public class DetailActivity extends AppCompatActivity {
         setContentView(R.layout.activity_detail);
         TextView detailNameTextView = (TextView) findViewById(R.id.detailName);
         TextView detailAddressTextView = (TextView) findViewById(R.id.detailAddress);
+        ImageView image = (ImageView) findViewById(R.id.detailImage);
 
         Bundle extras = getIntent().getExtras();
         if(extras != null) {
             int intName = extras.getInt("name");
             String detailName = getResources().getString(intName);
+
             int intAddress = extras.getInt("address");
             String detailAddress = getResources().getString(intAddress);
+
             detailNameTextView.setText(detailName);
             detailAddressTextView.setText(detailAddress);
+
+            int intImage = extras.getInt("image");
+            image.setImageResource(intImage);
         }
     }
 }

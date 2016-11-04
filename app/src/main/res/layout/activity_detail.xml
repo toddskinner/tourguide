@@ -10,6 +10,13 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.android.tourguide.DetailActivity">
 
+    <ImageView
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height"
+        android:scaleType="centerCrop"
+        android:padding="10dp"
+        android:id="@+id/detailImage"/>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
