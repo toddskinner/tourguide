@@ -1,6 +1,8 @@
 package com.example.android.tourguide;
 
 import android.app.Activity;
+import android.content.Context;
+import android.content.Intent;
 import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -18,14 +20,16 @@ import java.util.ArrayList;
 public class ListItemAdapter extends ArrayAdapter<ListItem> {
 
     private int mColorResourceID;
+    private Context mCon;
 
     public ListItemAdapter(Activity context, ArrayList<ListItem> list_items, int colorResource) {
         super(context, 0, list_items);
         mColorResourceID = colorResource;
+        mCon = context;
     }
 
     @Override
-    public View getView(int position, View convertView, ViewGroup parent) {
+    public View getView(final int position, View convertView, ViewGroup parent) {
         View listItemView = convertView;
 
         if (listItemView == null) {
@@ -56,6 +60,18 @@ public class ListItemAdapter extends ArrayAdapter<ListItem> {
         imageView.setBackgroundColor(color);
         paddingView.setBackgroundColor(color);
 
+        listItemView.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View view){
+                Intent detailIntent = new Intent(mCon, DetailActivity.class);
+                detailIntent.putExtra("name", getItem(position).getName());
+                detailIntent.putExtra("address", getItem(position).getAddress());
+                detailIntent.putExtra("image", getItem(position).getImageResourceID());
+                mCon.startActivity(detailIntent);
+            }
+        });
+
         return listItemView;
     }
 }
+
