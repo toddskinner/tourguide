@@ -60,6 +60,8 @@ public class ListItemAdapter extends ArrayAdapter<ListItem> {
         imageView.setBackgroundColor(color);
         paddingView.setBackgroundColor(color);
 
+        //found on StackOverflow
+
         listItemView.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View view){

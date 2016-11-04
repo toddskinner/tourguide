@@ -21,6 +21,8 @@ public class DetailActivity extends AppCompatActivity {
         TextView detailDescriptionTextView = (TextView) findViewById(R.id.detailDescription);
         ImageView image = (ImageView) findViewById(R.id.detailImage);
 
+        //found on StackOverflow
+
         Bundle extras = getIntent().getExtras();
         if(extras != null) {
             int intName = extras.getInt("name");
